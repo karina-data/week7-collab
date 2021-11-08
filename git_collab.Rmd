@@ -22,6 +22,7 @@ plot(penguins)
 
 And here is where I will work: 
 ```{r Hollie}
-
+4 + 4 
+#simple math
 ```
 
