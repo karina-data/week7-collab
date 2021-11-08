@@ -25,3 +25,9 @@ And here is where I will work:
 
 ```
 
+
+Adding a new code chunk:
+```{r Karina}
+# here is some new amazing code!
+```
+
