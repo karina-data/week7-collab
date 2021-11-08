@@ -10,4 +10,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```
 
-Hi Holly!
+Hi Hollie!
+
+Hi Karina! Here's a code chunk werhe you can work: 
+```{r Karina}
+
+```
+
+And here is where I will work: 
+```{r Hollie}
+
+```
+
