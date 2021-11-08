@@ -8,14 +8,17 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
+library(palmerpenguins)
 ```
 
 Hi Hollie!
 
 Hi Karina! Here's a code chunk where you can work: 
 ```{r Karina}
-
+2 + 2
+plot(penguins)
 ```
+
 
 And here is where I will work: 
 ```{r Hollie}
