@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Hi Hollie!
 
-Hi Karina! Here's a code chunk werhe you can work: 
+Hi Karina! Here's a code chunk where you can work: 
 ```{r Karina}
 
 ```
